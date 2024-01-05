@@ -10,8 +10,15 @@
 <h5>- ✈️ I speak English</h5>
 <h5>- 🎓 I continue to learn new things every day</h5>
 </div>
+    <h3> </h3>
+    <h3> </h3>
+    <h3> </h3>
+    <h3> </h3>
+    <h3> </h3>
+    <h3> </h3>
 <div>
     <h3>Languages and tools:</h3>
+    <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height=45px width=45px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=45px width=45px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=45px width=45px/>
@@ -26,9 +33,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height=45px width=45px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=45px width=45px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height=45px width=45px/>
-    
+    </div>
 </div>
-
+<h3> My stat: </h3>
 <div align="center">
     <h3> </h3>
     <h3> </h3>
